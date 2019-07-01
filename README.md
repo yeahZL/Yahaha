@@ -6,3 +6,7 @@
 win10  
 Visual Studio 2010  
 ArcEngine 10.2
+
+## 依赖库
+除ArcEngine组件外，需要Json-xml转换库用于获取百度地图位置信息接口  
+对于报告自动生成功能，则需要Office组件，可以装Microsoft.office。

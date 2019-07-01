@@ -3,6 +3,6 @@
 实现了进度条、自动截图、调用百度地图API获取位置信息、Word报告自动生成、Excel读取等功能。
 
 ## 开发环境版本
-win10
+win10  
 Visual Studio 2010  
 ArcEngine 10.2
